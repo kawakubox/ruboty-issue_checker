@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["shigefumi.kawakubo@gmail.com"]
 
   spec.summary       = %q{github issue check tool.}
+  spec.description   = %q{github issue check tool.}
   spec.homepage      = "https://github.com/kawakubox/ruboty-issue_checker"
   spec.license       = "MIT"
 
