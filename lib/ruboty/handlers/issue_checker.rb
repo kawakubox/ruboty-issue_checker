@@ -1,7 +1,7 @@
 require 'ruboty/issue_checker/actions/patrol'
 
 module Ruboty
-  module hundlers
+  module Handlers
     class IssueChecker < Base
       on /issue patrol (?<repo>.*)\z/, name: 'patrol', description: 'Github issue patrol.'
       on /hoge\z/, name: 'hoge', description: 'Hoge.'
