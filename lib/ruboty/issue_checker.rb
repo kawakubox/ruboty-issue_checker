@@ -1,7 +1,3 @@
-require "ruboty/issue_checker/version"
-
-module Ruboty
-  module IssueChecker
-    # Your code goes here...
-  end
-end
+require 'ruboty'
+require 'ruboty/issue_checker/version'
+require 'ruboty/issue_checker/actions/patrol'
