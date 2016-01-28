@@ -1,3 +1,5 @@
+require 'ruboty/issue_checker/actions/patrol'
+
 module Ruboty
   module Handlers
     class IssueChecker < Base

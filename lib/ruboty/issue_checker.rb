@@ -1,3 +1,3 @@
 require 'ruboty'
 require 'ruboty/issue_checker/version'
-require 'ruboty/issue_checker/actions/patrol'
+require 'ruboty/handlers/issue_checker'
